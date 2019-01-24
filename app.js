@@ -1,6 +1,6 @@
 console.log('Hello worold')
 
-if (true) {
+if (false) {
 
 } else {
 
